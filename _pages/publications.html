@@ -33,4 +33,60 @@ author_profile: true
 {% endif %}
 
 
+<style>
+  .publication-excerpt {
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 4;
+    overflow: hidden;
+  }
+
+  .publication-excerpt.is-expanded {
+    display: block;
+    overflow: visible;
+  }
+
+  .publication-excerpt-toggle {
+    display: none;
+    margin-top: 0.25rem;
+    padding: 0;
+    border: 0;
+    background: none;
+    color: inherit;
+    font: inherit;
+    font-size: 0.85em;
+    font-weight: 600;
+    text-decoration: underline;
+    cursor: pointer;
+  }
+
+  .publication-excerpt-toggle.is-visible {
+    display: inline-block;
+  }
+</style>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    const excerpts = document.querySelectorAll(".publication-excerpt");
+
+    excerpts.forEach(function (excerpt) {
+      const wrapper = excerpt.closest(".publication-excerpt-wrapper");
+      const button = wrapper.querySelector(".publication-excerpt-toggle");
+
+      if (excerpt.scrollHeight <= excerpt.clientHeight + 1) {
+        return;
+      }
+
+      button.classList.add("is-visible");
+
+      button.addEventListener("click", function () {
+        const expanded = excerpt.classList.toggle("is-expanded");
+
+        button.setAttribute("aria-expanded", expanded.toString());
+        button.textContent = expanded ? "Show less" : "Show more";
+      });
+    });
+  });
+</script>
+
 
