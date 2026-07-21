@@ -1,0 +1,12 @@
+---
+title: "Improvement of decentralized flocking flight efficiency of fixed-wing UAVs using inactive agents"
+collection: publications
+category: conferences
+permalink: /publication/AIAA2019
+excerpt: 'The augmented Cucker-Smale (CS) flocking model allows a flock of multiple agents to autonomously maintain a certain distance between agents in a decentralized way by exchanging necessary information among neighbors. This paper extends the augmented CS model by considering dynamic constraints of the fixed-wing UAV such as the maximum turn rate, and limitation of the speed. Besides, in order to improve the flocking performance in terms of the control energy required for maintaining a flock, the property of inactiveness-a discounted factor to control inputs-has been introduced. Inspired by the biological observation that some lazy workers are beneficial to the group performance in social insect colonies, different levels of laziness are considered in the flocking algorithm for multiple fixed-wing UAVs. By applying the optimized inactivity level found through social learning particle swarm optimization for flock members, the flocking performance could be significantly improved with reduced control efforts. The performance of the proposed algorithm is verified by comparing with conventional flocking algorithms in various scenarios.'
+date: 2019-01-06
+venue: 'AIAA Scitech 2019 Forum'
+paperurl: 'https://arc.aiaa.org/doi/abs/10.2514/6.2019-0391'
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
