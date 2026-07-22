@@ -1,0 +1,11 @@
+---
+title: "Using lazy agents to improve the flocking efficiency of multiple uavs"
+collection: publications
+category: manuscripts
+permalink: /publication/JIRS2021
+excerpt: 'A group of agents can form a flock using the augmented Cucker-Smale (C-S) model. The model autonomously aligns them to a common velocity and maintains a relative distance among the agents in a distributed manner by sharing the information among neighbors. This paper introduces the concept of inactiveness to the augmented C-S model for improving the flocking performance. It involves controlling the energy and convergence time required to form a stable flock. Inspired by the natural world where a few lazy (or inactive) workers are helpful to the group performance in social insect colonies. In this study, we analyzed different levels of inactiveness as a degree of control input effectiveness for multiple fixed-wing UAVs in the flocking algorithm. To find the appropriate inactiveness level for each flock member, the particle swarm optimization-based approach is used as the first step, based on the initial condition of the flock. However, as the significant computational burden may cause difficulties in implementing the optimization-based approach in real time, we also propose a heuristic adaptive inactiveness approach, which changes the inactivity level of selected agents adaptively according to their position and heading relative to the flock center. The performance of the proposed approaches using the concept of lazy (or inactive) agents is verified with numerical simulations by comparing them with the conventional flocking algorithm in various scenarios.'
+date: 2021-10-27
+venue: 'Journal of Intelligent & Robotic Systems'
+paperurl: 'https://link.springer.com/article/10.1007/s10846-021-01492-1'
+---
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
