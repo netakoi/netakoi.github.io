@@ -1,0 +1,12 @@
+---
+title: "Decentralized hybrid flocking guidance for a swarm of small UAVs"
+collection: publications
+category: conferences
+permalink: /publication/REDUAS2019
+excerpt: 'Flocking is defined as flying in groups without colliding into each other through data exchange where each UAV applies a decentralized algorithm. In this paper, hybrid flocking control is proposed by using three types of guidance methods: vector field, Cucker-Smale model, and potential field. Typically, hybrid flocking control using several methods can lead to generating conflicting commands and thus degrading the performance of the mission. To address this issue, the adaptive Cucker-Smale model is proposed. Besides, we use social learning particle swarm optimization to determine the optimal weightings between guidance methods. It is verified through numerical simulations that the optimal weighting for missions such as loitering and target tracking results in effective flocking.'
+date: 2019-11-25
+venue: '2019 Workshop on Research, Education and Development of Unmanned Aerial Systems (RED UAS)'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/8999710'
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
