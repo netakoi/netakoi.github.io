@@ -1,0 +1,12 @@
+---
+title: "State prediction of human-in-the-loop multi-rotor system with stochastic human behavior model"
+collection: publications
+category: conferences
+permalink: /publication/CPHS2022
+excerpt: 'Reachability analysis is a widely used method to analyze the safety of a Human-in-the-Loop Cyber Physical System (HiLCPS). It allows the HiLCPS to respond against an imminent threat in advance by predicting reachable states of the system. However, it could lead to an unnecessarily conservative reachable set if the prediction only relies on the system dynamics without explicitly considering human behavior, and thus the risk might be overestimated. To avoid the conservativeness, we present a state probability distribution function (pdf) prediction method which takes into account a stochastic human behavior model represented as a Gaussian Mixture Model (GMM). In this paper, we focus on the multi-rotor controlled by a human operator in a near-collision situation. The stochastic human behavior model is trained using experimental data to represent the human operators’ evasive maneuver. Then, we can retrieve a human control input pdf from the trained stochastic human behavior model using the Gaussian Mixture Regression (GMR). The proposed algorithm predicts the multi-rotor's future state pdf by propagating the pdf of the retrieved human control input according to the given dynamics, which yields closed-loop analysis of the HiLCPS. Human subject experiment results are provided to demonstrate the effectiveness of the proposed algorithm.'
+date: 2022-01-01
+venue: '4th IFAC Workshop on Cyber-Physical and Human Systems CPHS'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S2405896323001209'
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
