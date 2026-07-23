@@ -1,0 +1,11 @@
+---
+title: "Bootstrapped Gaussian mixture model-based data-driven forward stochastic reachability analysis"
+collection: publications
+category: manuscripts
+permalink: /publication/LCSS2023
+excerpt: 'We propose a data-driven forward stochastic reachability analysis algorithm for a system with unknown dynamics. In this letter, we assume a limited number of trajectory data is available and one cannot obtain additional data from the target system. The proposed algorithm learns the evolution of the state probability density function (pdf) as a Gaussian mixture model (GMM) from the given trajectory data and computes the pdf of the future state at a desired future time instance. We leverage the bootstrapping algorithm to account for the parameter estimation error of the GMM by computing the confidence interval of the estimated parameters. Then, the bootstrapped GMM is synthesized by selecting the optimal parameters within the confidence interval that yields the most informative model, thereby providing more reliable prediction results. The proposed algorithm is demonstrated via both numerical simulations and human subject experiments.'
+date: 2023-12-25
+venue: 'IEEE Control Systems Letters'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10373951'
+---
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
