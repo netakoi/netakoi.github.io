@@ -1,0 +1,11 @@
+---
+title: "A computational framework for optimal adaptive function allocation in a human-autonomy teaming scenario"
+collection: publications
+category: manuscripts
+permalink: /publication/IEEEOJCS2023
+excerpt: 'This article proposes a quantitative framework for optimally allocating task functions in human-autonomy teaming (HAT). HAT involves cooperation between humans and autonomous agents to achieve common goals. As humans and autonomous agents possess different capabilities, function allocation plays a crucial role in ensuring effective HAT. However, designing the best adaptive function allocation remains a challenge, as existing methods often rely on qualitative rules and intensive human-subject studies. To address this limitation, we propose a computational function allocation approach that leverages cognitive engineering, computational work models, and optimization techniques. The proposed optimal adaptive function allocation method is composed of three main elements: 1) analyze the teamwork to identify a set of all possible function allocations within a team construction, 2) numerically simulate the teamwork in temporal semantics to explore the interaction of the team with complex environments using the identified function allocations in a trial-and-error manner, and 3) optimize the adaptive function allocation with respect to a given situation such as physical conditions, available information resources, and human mental workload. For the optimization, we utilize performance metrics such as task performance, human mental workload, and coherency in function allocations. To illustrate the effectiveness of the proposed framework, we present a simulated HAT scenario involving a human work model and drone fleet for last-mile delivery in disaster relief operations.'
+date: 2023-12-06
+venue: 'IEEE Open Journal of Control Systems'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10345767'
+---
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
