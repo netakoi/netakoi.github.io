@@ -1,0 +1,12 @@
+---
+title: "Data-driven forward stochastic reachability analysis for human-in-the-loop systems"
+collection: publications
+category: conferences
+permalink: /publication/CDC2023
+excerpt: 'We propose a data-driven forward stochastic reachability analysis algorithm for Human-In-The-Loop (HITL) systems. We focus on a certain type of HITL system whose behavior is dominated by a human operator, for example, a multi-rotor controlled by a human operator. In such a system, the intervention of the human operator may generate a conservative reachable set due to the unpredictable control strategy of the human operator. The proposed algorithm computes a less conservative reachable set of the HITL system by accounting for the human operator's behavior, i.e., we present the data-driven reachability analysis algorithm that considers the unknown controller information of the HITL system. The behavior of the human operator is trained as a Gaussian Mixture Model (GMM) from the state and input trajectories of the system. Then, the conditional probability distribution of the human operator's behavior is obtained from the Gaussian Mixture Regression (GMR) for the closed-loop reachability analysis. The proposed algorithm is tested and demonstrated by the data collected from human subject experiments.'
+date: 2023-12-13
+venue: '2023 62nd IEEE Conference on Decision and Control (CDC)'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10383447'
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
