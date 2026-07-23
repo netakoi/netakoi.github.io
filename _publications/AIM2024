@@ -1,0 +1,12 @@
+---
+title: "Reachability analysis of human-in-the-loop systems using Gaussian mixture model with side information"
+collection: publications
+category: conferences
+permalink: /publication/AIM2024
+excerpt: 'In the context of a Human-in-the-Loop (HITL) system, the accuracy of reachability analysis plays a significant role in ensuring the safety and reliability of HITL systems. In addition, one can avoid unnecessary conservativeness by explicitly considering human control behavior compared to those methods that rely on the system dynamics alone. One possible approach is to use a Gaussian Mixture Model (GMM) to encode human control behavior using the Expectation-Maximization (EM) algorithm. However, relatively few works consider the admissible control input ranges due to physical or mechanical limitations when modeling human control behavior. This could make the following reachability analysis overestimate the system’s capability, thereby affecting the performance of the HITL system. To address this issue, we present a constrained stochastic reachability analysis algorithm that can explicitly account for the admissible control input ranges. By confining the ellipsoidal confidence region of each Gaussian component using Sequential Quadratic Programming (SQP), we probabilistically constrain the GMM as well as the corresponding stochastic reachable sets. A comprehensive mathematical analysis of how the constrained GMM can affect the stochastic reachable sets is provided in this paper. Finally, the proposed stochastic reachability analysis algorithm is validated via an illustrative numerical example.' 
+date: 2024-07-15
+venue: '2024 IEEE International Conference on Advanced Intelligent Mechatronics (AIM)'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10637051'
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
