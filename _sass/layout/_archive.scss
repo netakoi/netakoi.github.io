@@ -243,3 +243,34 @@
     }
   }
 }
+
+.publication-item--with-image {
+  display: flow-root;
+}
+
+.publication-item__image {
+  float: left;
+  width: 180px;
+  margin: 0 1.25rem 0.75rem 0;
+
+  img {
+    display: block;
+    width: 100%;
+    max-height: 150px;
+    object-fit: contain;
+    border-radius: $border-radius;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .publication-item__image {
+    float: none;
+    width: 100%;
+    max-width: 320px;
+    margin: 0 0 1rem;
+
+    img {
+      max-height: 220px;
+    }
+  }
+}
