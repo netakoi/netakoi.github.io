@@ -1,0 +1,11 @@
+---
+title: "Autonomous ship deck landing of a quadrotor UAV using feed-forward image-based visual servoing"
+collection: publications
+category: manuscripts
+permalink: /publication/AST2022
+excerpt: 'Autonomous takeoff and landing are crucial for unmanned aerial vehicles (UAVs) to perform various missions automatically. However, navigation sensors with low accuracy such as global positioning system (GPS) are limited in autonomous takeoff and landing for marine applications when ships are moving fast and oscillating by sea waves. In this study, an image-based visual servoing (IBVS) technique, which was originally used to land a UAV on a static target, is extended for a moving target. In particular, the ship velocity is estimated and used as a feed-forward term in the IBVS controller. To accurately estimate the velocity of the ship, velocity data from the GPS on the ship, image information obtained from the camera in the UAV, and dynamic model of the ship are combined using the Kalman filter framework. Besides, considering the under-actuated nature of the UAV and oscillation of the ship, a virtual plane concept, adaptive IBVS gain and feature shape compensation are introduced. Lastly, to apply the IBVS controller to the moving ship deck landing, a robust and safe autonomous landing procedure, starting from the approach to the touchdown phase, is also developed. The proposed autonomous landing system is validated via simulations and various real-world flight experiments simulating situations in which the ship is moving fast and oscillated by sea waves. In the flight experiments, the UAV lands successfully on the landing pad with the average touchdown error of 0.2m while the ship is oscillating at the Sea State 4 and is moving faster than 5m/s.'
+date: 2022-11-01
+venue: 'Aerospace Science and Technology'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S1270963822005430'
+---
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
