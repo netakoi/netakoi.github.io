@@ -1,0 +1,12 @@
+---
+title: "On The Controllability Preservation of Koopman Bilinear Surrogate Model"
+collection: publications
+category: conferences
+permalink: /publication/CDC2024
+excerpt: 'In this paper, we analyze the controllability of the Koopman bilinear surrogate model of a controllable control affine system. The Koopman operator is a linear operator that can describe the evolution of an original (nonlinear) system by lifting the state using an observable. However, it has been proven that the lifted system may not necessarily be fullstate controllable even if the original system is. Moreover, the infinite-dimensional nature of the Koopman operator means that a finite-dimensional approximation is often required in practice and thus, one cannot simply guarantee the lifted system to preserve the same controllability property of the original system. Motivated by this, we investigate how the controllability property of the original system affects that of the lifted system. We specifically focus on control affine systems, where one can construct a Koopman bilinear surrogate model using the infinitesimal generator of the Koopman operator. We assume there exists an admissible controller that can drive the state of the original control affine system to a desired state. Then, we present the controllability property of the corresponding Koopman bilinear surrogate model, constructed by the data-driven infinitesimal generator using generator extended dynamic mode decomposition (gEDMD). A numerical simulation example using a quadrotor model is presented to demonstrate the proposed results.'
+date: 2024-12-16
+venue: '2024 IEEE 63rd Conference on Decision and Control (CDC)'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10886212'
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
