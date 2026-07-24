@@ -1,0 +1,12 @@
+---
+title: "Cognitive-Aware Multi-modal Human-Swarm Interface for Optimal Collaboration"
+collection: publications
+category: conferences
+permalink: /publication/GENZERO2025
+excerpt: 'This paper presents the development of an interface that enables humans to collaborate with robot swarms (RSs) to effectively accomplish missions in highly uncertain environments. Autonomous RS technology has advanced to the point where robots can perform various tasks without human intervention. However, there are still two major uncertainties in mission execution. The first uncertainty arises from the limitations of artificial intelligence (AI), such as the inaccuracy of computer vision systems. The second uncertainty comes from the decision-making aspect, where the mission requirements may not be accurately communicated to the RS. To overcome these uncertainties, it is crucial to design a system that allows humans to monitor the RS and actively participate in critical decision-making processes during missions. We design an interface to: 1) estimate human cognitive states to monitor the human partner, 2) determine the best communication methods to calibrate cognitive states, and 3) allocate functions among humans and robots to optimize team performance. We demonstrate this approach through drone search and rescue (SAR) missions.'
+date: 2025-10-22
+venue: 'Proceedings of 1st GENZERO Workshop '
+paperurl: 'https://link.springer.com/chapter/10.1007/978-981-95-1050-4_19'
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
