@@ -2,10 +2,13 @@
 title: "Decentralized multi-subgroup formation control with connectivity preservation and collision avoidance"
 collection: publications
 category: manuscripts
-permalink: /publication/IEEEACESS2020
 excerpt: 'This paper proposes a formation control algorithm to create separated multiple formations for an undirected networked multi-agent system while preserving the network connectivity and avoiding collision among agents. Through the modified multi-consensus technique, the proposed algorithm can simultaneously divide a group of multiple agents into any arbitrary number of desired formations in a decentralized manner. Furthermore, the agents assigned to each formation group can be easily reallocated to other formation groups without network topological constraints as long as the entire network is initially connected; an operator can freely partition agents even if there is no spanning tree within each subgroup. Besides, the system can avoid collision without loosing the connectivity even during the transient period of formation by applying the existing potential function based on the network connectivity estimation. If the estimation is correct, the potential function not only guarantees the connectivity maintenance but also allows some extra edges to be broken if the network remains connected. Numerical simulations are performed to verify the feasibility and performance of the proposed multi-subgroup formation control.'
 date: 2020-04-14
 venue: 'IEEE Access'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9064526'
+
+header:
+  teaser: publications/access.jpg
+
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
