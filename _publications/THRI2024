@@ -1,0 +1,11 @@
+---
+title: "Stochastic-skill-level-based shared control for human training in urban air mobility scenario"
+collection: publications
+category: manuscripts
+permalink: /publication/THRI2024
+excerpt: 'This article proposes a novel stochastic-skill-level-based shared control framework to assist human novices to emulate human experts in complex dynamic control tasks. The proposed framework aims to infer stochastic-skill-levels (SSLs) of the human novices and provide personalized assistance based on the inferred SSLs. SSL can be assessed as a stochastic variable that denotes the probability that the novice will behave similarly to experts. We propose a data-driven method that can characterize novice demonstrations as a novice model and expert demonstrations as an expert model, respectively. Then, our SSL inference approach utilizes the novice and expert models to assess the SSL of the novices in complex dynamic control tasks. The shared control scheme is designed to dynamically adjust the level of assistance based on the inferred SSL to prevent frustration or tedium during human training due to poorly imposed assistance. The proposed framework is demonstrated by a human subject experiment in a human training scenario for a remotely piloted urban air mobility vehicle. The results show that the proposed framework can assess the SSL and tailor the assistance for an individual in real time. The proposed framework is compared to practice-only training (no assistance) and a baseline shared control approach to test the human learning rates in the designed training scenario with human subjects. A subjective survey is also examined to monitor the user experience of the proposed framework.'
+date: 2024-08-26
+venue: 'ACM Transactions on Human-Robot Interaction'
+paperurl: 'https://dl.acm.org/doi/full/10.1145/3603194'
+---
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
