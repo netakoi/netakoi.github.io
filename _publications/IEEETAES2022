@@ -2,10 +2,14 @@
 title: "Adversarial Swarm Defence Using Multiple Fixed-Wing Unmanned Aerial Vehicles"
 collection: publications
 category: manuscripts
-permalink: /publication/IEEETAES2022
 excerpt: 'This article proposes a coverage-based adversarial swarm defence algorithm. The defender swarm composed of fixed-wing unmanned aerial vehicles (UAVs) is assumed to have explosives onboard to intercept an adversarial swarm. The proposed approach consists of the following two steps: first, impact point optimization and, second, model predictive control (MPC)-based impact time control. The impact point optimization periodically optimizes impact points for the corresponding UAVs to maximize the coverage within the hostile swarm while minimizing the common impact time. The optimization domain is limited to a physically reachable area of UAVs with the common impact time. Besides, the MPC-based impact time controller is designed to ensure the multiple UAVs to arrive the generated time-varying impact points simultaneously. Numerical simulations are performed to prove the feasibility and efficiency of the proposed swarm defence algorithm.'
 date: 2022-04-21
 venue: 'IEEE Transactions on Aerospace and Electronic Systems'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9761772'
+selected: true
+
+header:
+  teaser: publications/TAES.png
+
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
