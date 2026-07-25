@@ -1,0 +1,13 @@
+---
+title: "Data-Driven Closed-Loop Reachability Analysis for Nonlinear Human-in-the-Loop Systems Using Gaussian Mixture Model"
+collection: publications
+category: manuscripts
+excerpt: 'This article presents data-driven algorithms to perform the reachability analysis of nonlinear human-in-the-loop (HITL) systems. Such systems require consideration of the human control policy, otherwise might result in a conservative reachable set. However, formulating the human control policy in a mathematically tractable form is challenging, and thus, it is commonly ignored or simplified in many applications. To tackle this problem, we propose Gaussian mixture model (GMM)-based data-driven algorithms that can explicitly consider the human control policy during the reachability analysis of an HITL system. The proposed algorithms learn the human control policy as a GMM using the given trajectory. Then, the control input from the human operator is predicted based on the trained GMM by leveraging the Gaussian mixture regression (GMR), thereby facilitating the closed-loop forward stochastic reachability analysis. In this article, we examine two types of human control policies, state-independent and state-dependent, and propose the respective algorithms. We also tested our proposed algorithms using the human subject experimental data and demonstrated to generate more accurate results compared with other existing algorithms.'
+date: 2024-12-24
+venue: 'IEEE Transactions on Control Systems Technology'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10813423'
+
+selected: true
+
+---
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
