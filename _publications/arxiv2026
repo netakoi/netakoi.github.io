@@ -1,0 +1,11 @@
+---
+title: "Signal Temporal Logic Verification and Synthesis Using Deep Reachability Analysis and Layered Control Architecture"
+collection: publications
+category: preprint
+excerpt: 'We propose a signal temporal logic (STL)-based framework that rigorously verifies the feasibility of a mission described in STL and synthesizes control to safely execute it. The proposed framework ensures safe and reliable operation through two phases. First, the proposed framework assesses the feasibility of STL by computing a backward reachable tube (BRT), which captures all states that can satisfy the given STL, regardless of the initial state. The proposed framework accommodates the multiple reach-avoid (MRA) problem to address more general STL specifications and leverages a deep neural network to alleviate the computation burden for reachability analysis, reducing the computation time by about 1000 times compared to a baseline method. We further propose a layered planning and control architecture that combines mixed-integer linear programming (MILP) for global planning with model predictive control (MPC) as a local controller for the verified STL. Consequently, the proposed framework can robustly handle unexpected behavior of obstacles that are not described in the environment information or STL, thereby providing reliable mission performance. Our numerical simulations demonstrate that the proposed framework can successfully compute BRT for a given STL and perform the mission.'
+date: 2026-02-26
+venue: 'ArXiv'
+paperurl: 'https://arxiv.org/abs/2602.23313'
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
