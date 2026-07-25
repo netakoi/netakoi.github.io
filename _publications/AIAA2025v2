@@ -1,0 +1,11 @@
+---
+title: "Workload classification for function allocations in human-autonomy teaming using noninvasive measurements"
+collection: publications
+category: conferences
+excerpt: 'In this paper, we propose a methodology to classify three levels of human (mental) workload for different allocations of functions in a human-autonomy teaming (HAT) scenario. Function allocation involves determining which functions within the team should be performed by a human operator or autonomous agents. A key challenge in this process is calibrating the human operator's workload to prevent performance degradation caused by excessive workload while also avoiding a loss of situational awareness due to insufficient workload. Therefore, it is essential to assess how workload varies across different allocations of functions. The proposed methodology incorporates psychophysiological and behavioral measures, such as electrocardiogram signals from a heart rate sensor, facial features captured by a camera, and recorded actions from a user interface. These measures are noninvasive, easily deployable, and cost-effective, making them well-suited for monitoring workload in diverse HAT contexts. We design a HAT scenario in which participants are operators in a drone-based search and rescue mission, using a mixed-reality testbed that includes drones, sensors, and a user interface. We investigate the relationship between function allocation and workload. We then present a data-driven approach to evaluate workload under multiple function allocations and demonstrate the methodology by applying it to our HAT scenario. The proposed methodology achieves an accuracy of 82.0% in classifying workload across different function allocations. This outcome provides a strong foundation for adaptive function allocation in a wide range of HAT scenarios.'
+date: 2025-01-03
+venue: 'AIAA SCITECH 2025 Forum'
+paperurl: 'https://arc.aiaa.org/doi/abs/10.2514/6.2025-2253'
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
