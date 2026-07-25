@@ -1,0 +1,11 @@
+---
+title: "Distraction-Aware Data-Driven Hybrid Reachability Analysis of Cyber-Physical-Human Systems Using Functional Near-Infrared Spectroscopy"
+collection: publications
+category: conferences
+excerpt: 'This paper presents a data-driven safety (reachability) analysis framework for cyber-physical-human systems (CPHSs) that can explicitly account for the control policy of a human operator affected by distraction. The safety analysis of a CPHS is challenging due to the complex human control policy that can vary when a human operator is distracted. Despite its importance, relatively few studies have explicitly addressed the control policy transition when distraction occurs in a safety analysis; and even fewer employed proper physiological sensors to capture the distraction. To approach this problem, we first construct a human distraction model by analyzing brain activity in the orbitofrontal cortex (OFC) brain region, measured using functional near-infrared spectroscopy (fNIRS). Human control models are also trained as Gaussian mixture models (GMMs) to represent the human operator’s state-feedback control policy using the given trajectory data of the CPHS. The human control models are leveraged for the closed-loop reachability analysis of the CPHS to account for the human control policy explicitly. Two separate human control models (distracted and focused) are trained, and the results from the respective human control model are combined proportional to the belief computed from the human distraction model. Thus, the proposed framework can account for how likely the human operator is distracted as well as the corresponding transition of human control policy. A human subject experiment with fNIRS measurements was conducted to test the performance of the proposed framework.'
+date: 2025-01-03
+venue: 'AIAA SCITECH 2025 Forum'
+paperurl: 'https://arc.aiaa.org/doi/abs/10.2514/6.2025-2250'
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
