@@ -1,0 +1,11 @@
+---
+title: "Reachability-based Temporal Logic Verification for Reliable LLM-guided Human-Autonomy Teaming"
+collection: publications
+category: preprint
+excerpt: 'We propose a reachability-based framework for reliable LLM-guided human-autonomy teaming (HAT) using signal temporal logic (STL). In the proposed framework, LLM is leveraged as a translator that transfers natural language commands given by a human operator into corresponding STL specifications or vice versa. An STL feasibility filter (SFF) is proposed to check the feasibility of the generated STL. The SFF first decomposes the complex and nested LLM translation into a set of simpler subformulas for parallelization and informative feedback generation. The reachability analysis method is then applied to verify if each subformula is feasible for a target dynamical system: if feasible, perform mission planning, otherwise, reject it. The proposed SFF can identify infeasible subformulas, more than simply providing the boolean verification results for the whole STL, thereby facilitating the feedback generation of LLM to request modification of the command to the human. Consequently, the proposed framework can allow more reliable HAT by enabling safe and informative communication between the human operator and the autonomous agent. Our experiments demonstrate that the proposed framework can successfully filter out infeasible subformulas and generate informative feedback based on such information.'
+date: 2026-03-09
+venue: 'ArXiv'
+paperurl: 'https://arxiv.org/abs/2603.08633'
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
