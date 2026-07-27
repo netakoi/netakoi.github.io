@@ -1,5 +1,5 @@
 ---
-title: "Multi-LLM interactive environment"
+title: "Multi-LLM interactive environment (Ongoing)"
 excerpt: "This project aims to construct a browser-based environment where multiple commercial LLM agents can interact with each other (The image will be updated). <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
