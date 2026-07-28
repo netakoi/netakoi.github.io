@@ -1,11 +1,10 @@
 ---
-title: "FFBC"
+title: "Future Faculty Boot Camp (FFBC)"
 collection: teaching
-type: "Graduate course"
+type: "Boot Camp"
 permalink: /teaching/FFBC
-venue: "University 1, Department"
-date: 2024-01-01
-location: "City, Country"
+venue: "Purdue University, School of Aeronautics and Astronautics"
+date: 2026-04-27
+location: "West Lafayette, US"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
+I participated in Future Faculty Boot Camp (FFBC) at Purdue University (https://engineering.purdue.edu/ECE/Academics/Graduates/Announcements/20260414_Faculty_Boot_Camp).
