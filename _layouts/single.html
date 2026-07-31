@@ -45,6 +45,22 @@ layout: default
       {% endunless %}
 
       <section class="page__content" itemprop="text">
+
+        {% if page.detail_image %}
+          <figure class="detail-page-image">
+            <img
+              src="{% if page.detail_image contains '://' %}{{ page.detail_image }}{% else %}{{ page.detail_image | prepend: '/images/' | prepend: base_path }}{% endif %}"
+              alt="{{ page.detail_image_alt | default: page.title | strip_html | escape }}"
+            >
+      
+            {% if page.detail_image_caption %}
+              <figcaption>
+                {{ page.detail_image_caption | markdownify | remove: '<p>' | remove: '</p>' }}
+              </figcaption>
+            {% endif %}
+          </figure>
+        {% endif %}
+      
         {{ content }}
 
         {% if page.citation and page.paperurl and page.slidesurl and page.bibtexurl %}
