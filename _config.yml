@@ -194,6 +194,24 @@ exclude:
   - README
   - tmp
   - vendor
+
+  - _pages/archive-layout-with-content.md
+  - _pages/collection-archive.html
+  - _pages/cv-json.md
+  - _pages/markdown.md
+  - _pages/non-menu-page.md
+  - _pages/page-archive.html
+  - _pages/talkmap.html
+  - _pages/terms.md
+
+  - markdown_generator
+  - scripts
+  - talkmap
+  - talkmap.ipynb
+  - talkmap.py
+  - talkmap_out.ipynb
+  - docker-compose.yaml
+  
 keep_files:
   - .git
   - .svn
