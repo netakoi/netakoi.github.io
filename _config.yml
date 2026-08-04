@@ -203,6 +203,7 @@ exclude:
   - _pages/page-archive.html
   - _pages/talkmap.html
   - _pages/terms.md
+  - _pages/sitemap.md
 
   - markdown_generator
   - scripts
