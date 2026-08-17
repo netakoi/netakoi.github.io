@@ -1,0 +1,11 @@
+---
+title: "IEEE Conference on Decision and Control (CDC) 2023"
+collection: talks
+type: "Talk"
+permalink: /talks/2023-12-13-CDC-1
+venue: "2023 62nd IEEE Conference on Decision and Control (CDC)"
+date: 2023-12-13
+location: "Marina Bay Sands, Singapore"
+---
+
+I presented my paper, "Data-Driven Forward Stochastic Reachability Analysis for Human-in-the-Loop Systems," at CDC 2023. The paper can be found at https://ieeexplore.ieee.org/abstract/document/10383447
