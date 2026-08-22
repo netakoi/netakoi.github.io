@@ -10,9 +10,8 @@ redirect_from:
 
 ![Research Overview](/images/Web_intro.png)
 
-Hello! [INTRO]
-
-My research keywords include: ▶Safety (reachability) analysis ▶Koopman operator ▶Control theory ▶Multi-Agent System (MAS) ▶Human Autonomy Teaming (HAT) ▶Human-Robot Interaction (HRI) ▶Contin-ual reinforcement learning ▶Formal methods
+Hello! I am currently working as an Apollo 11 Postdoctoral Fellow at Purdue University, IN, US. 
+My research aims to achieve "Safe and Resilient Teaming with Human-Aware Autonomy", in which I address several issues raised by complex, high-dimensional modern dynamical systems; and the complicated interactions among multiple agents (including humans). 
 
 Research Topic 1
 ======
