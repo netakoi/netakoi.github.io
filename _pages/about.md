@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "This webpage is under construction!"
+title: "Toward Reliable Autonomy That Works as a Teammate, Not Just a Tool"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,7 +10,9 @@ redirect_from:
 
 ![Research Overview](/images/Web_intro.png)
 
-Introduction
+Hello! [INTRO]
+
+My research keywords include: ▶Safety (reachability) analysis ▶Koopman operator ▶Control theory ▶Multi-Agent System (MAS) ▶Human Autonomy Teaming (HAT) ▶Human-Robot Interaction (HRI) ▶Contin-ual reinforcement learning ▶Formal methods
 
 Research Topic 1
 ======
