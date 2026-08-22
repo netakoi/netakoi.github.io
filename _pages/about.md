@@ -8,7 +8,7 @@ redirect_from:
 
 ---
 
-![Research Overview](/images/research_intro.png)
+![Research Overview](/images/Web_intro.png)
 
 Introduction
 
