@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Joonwon Choi Ph.D."
   pronouns         : # example: "she/her"  
-  bio              : "Apollo 11 Postdoctoral Fellow at Purdue University School of Aeronautics and Astronautics. <br> My research interest includes: ▶Safety (reachability) analysis ▶Koopman operator ▶Control theory ▶Multi-Agent System (MAS) ▶Human Autonomy Teaming (HAT) ▶Human-Robot Interaction (HRI) ▶Continual reinforcement learning (CRL) ▶Formal methods"  
+  bio              : "Apollo 11 Postdoctoral Fellow at Purdue University School of Aeronautics and Astronautics. My research interest includes: <br>▶Safety (reachability) analysis <br> ▶Koopman operator ▶Control theory <br> ▶Multi-Agent System (MAS) <br> ▶Human Autonomy Teaming (HAT) <br> ▶Human-Robot Interaction (HRI) <br> ▶Continual reinforcement learning (CRL) <br> ▶Formal methods"  
   location         : "West Lafayette, IN"
   employer         : "Purdue University"
   uri              : # URL
