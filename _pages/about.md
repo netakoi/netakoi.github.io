@@ -21,8 +21,7 @@ Modern dynamical systems often face difficulties in modeling their dynamics and 
 
 2 Formal Analysis of Safety and System Properties
 ======
-
-Topic 2 Description
+Despite recent advances in machine-learning-based safety assurance, many existing methods still provide heuristic assessments rather than formal guarantees. This thrust aims to formally analyze not only properties of system dynamics but also higher-level system specifications, for example, whether a mission provided by a human user is feasible for a target vehicle. I mainly use mathematical tools such as reachability analysis, temporal logic, and conformal prediction to assess safety and related system properties. Building on these tools, I aim to develop a reliable LLM-guided autonomous agent capable of formally evaluating natural-language commands from human users. 
 
 3 Adaptive and Resilient Decision-Making
 ======
