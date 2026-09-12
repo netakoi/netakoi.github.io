@@ -26,4 +26,4 @@ Despite recent advances in machine-learning-based safety assurance, many existin
 3 Adaptive and Resilient Decision-Making
 ======
 
-Topic 3 Description
+Autonomous systems should adapt to new tasks and dynamic environments while maintaining reliability in their interactions with other agents (and humans). This thrust aims to design an adaptive decision-making process by leveraging structured models and formal analysis. My research directions include human (cognitive)-aware control, continual reinforcement learning (e.g., policy reuse, policy decomposition), and strategic multi-agent behavior. Through these efforts, I aim to develop autonomous systems that retain and build on previously acquired knowledge, adapt their decisions to changing conditions and interactions, and maintain safe and effective operation.
